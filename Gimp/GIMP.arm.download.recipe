@@ -23,7 +23,7 @@
 				<key>Arguments</key>
 				<dict>
 					<key>url</key>
-					<string>https://www.gimp.org/downloads</string>
+					<string>https://www.gimp.org/downloads/</string>
 					<key>re_pattern</key>
 					<string>href="//download.gimp.org/gimp/v2.10/macos/\/gimp-(\d+\.\d+\.\d+)-\d+-x86_64\.dmg"</string>
 				</dict>
