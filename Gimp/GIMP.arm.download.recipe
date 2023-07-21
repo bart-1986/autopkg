@@ -21,7 +21,7 @@
 			<key>Arguments</key>
 			<dict>
 				<key>filename</key>
-				<string>%NAME%.dmg</string>
+				<string>%NAME%.arm.dmg</string>
 				<key>url</key>
 				<string>https://download.gimp.org/gimp/v2.10/macos/gimp-2.10.34-1-arm64.dmg</string>
 			</dict>
