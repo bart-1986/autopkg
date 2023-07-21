@@ -16,7 +16,7 @@
 	<key>MinimumVersion</key>
 	<string>1.0.0</string>
 	<key>ParentRecipe</key>
-	<string>om.bart-1986.download.GIMP.arm</string>
+	<string>com.bart-1986.download.GIMP.arm</string>
 	<key>Process</key>
 	<array>
 		<dict>
