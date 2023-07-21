@@ -18,8 +18,6 @@
 	<key>Process</key>
 	<array>
 		<dict>
-			<key>Arguments</key>
-			<dict>
 				<key>Processor</key>
 				<string>URLTextSearcher</string>
 				<key>Arguments</key>
@@ -27,14 +25,13 @@
 					<key>url</key>
 					<string>https://www.gimp.org/downloads/</string>
 					<key>re_pattern</key>
-					<string>https://download.gimp.org/gimp/v2.10/macos/\/gimp-(\d+\.\d+\.\d+)-\d+-arm-64\.dmg</string>
+					<string>https://download.gimp.org/gimp/v2.10/macos/\/gimp-(\d+\.\d+\.\d+)-\d+-x86_64\.dmg</string>
 				</dict>
 			</dict>
 			<dict>
 			<key>Processor</key>
 			<string>EndOfCheckPhase</string>
 			</dict>
-		</dict>
 		<dict>
 			<key>Arguments</key>
 			<dict>
